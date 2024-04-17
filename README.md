@@ -8,10 +8,11 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1.Calculate the null values present in the dataset and apply label encoder.
 2.Determine test and training data set and apply decison tree regression in dataset.
 3.calculate Mean square error,data prediction and r2.
-
+```
 ## Program:
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by:Murali Krishna S  
